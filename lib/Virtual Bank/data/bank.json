@@ -1,0 +1,1349 @@
+[
+    {
+        "name": "Đan Nguyên",
+        "senderID": "100089651168576",
+        "data": {
+            "money": 5.288363636373736e+90,
+            "STK": "681368052",
+            "debt": 0,
+            "password": "H3ngggyC"
+        }
+    },
+    {
+        "name": "Lê Hải Đăng",
+        "senderID": "100092939000328",
+        "data": {
+            "money": 1e+75,
+            "STK": "831607859",
+            "debt": 0,
+            "password": "bTHmGPMD"
+        }
+    },
+    {
+        "name": "Crew Don Kitt",
+        "senderID": "100077468670237",
+        "data": {
+            "money": 1e+59,
+            "STK": "843556139",
+            "debt": 0,
+            "password": "y1pXfaFn"
+        }
+    },
+    {
+        "name": "Huy Lê",
+        "senderID": "100083709103832",
+        "data": {
+            "money": 1.0000000101e+53,
+            "STK": "180785872",
+            "debt": 0,
+            "password": "99m1KY5O"
+        }
+    },
+    {
+        "name": "Nhật Minh",
+        "senderID": "100087537277790",
+        "data": {
+            "money": 1e+53,
+            "STK": "824005630",
+            "debt": 0,
+            "password": "goGpgZUc"
+        }
+    },
+    {
+        "name": "Quang Linh",
+        "senderID": "100086010230641",
+        "data": {
+            "money": 8.292010918283838e+52,
+            "STK": "640475671",
+            "debt": 0,
+            "password": "OXVg6y5I"
+        }
+    },
+    {
+        "name": "Xuan Nguyen",
+        "senderID": "100092167340493",
+        "data": {
+            "money": 1e+49,
+            "STK": "68389893",
+            "debt": 0,
+            "password": "YU0slIqb"
+        }
+    },
+    {
+        "name": "Vượng Kỳ",
+        "senderID": "100073109246107",
+        "data": {
+            "money": 1.00000999e+46,
+            "STK": "293930376",
+            "debt": 0,
+            "password": "XCzcHRRt"
+        }
+    },
+    {
+        "name": "Trần Duy Tân",
+        "senderID": "100054941216755",
+        "data": {
+            "money": 9.69696969669697e+42,
+            "STK": "492263994",
+            "debt": 0,
+            "password": "DYGxBqvR"
+        }
+    },
+    {
+        "name": "Quý Tùngg",
+        "senderID": "100072761693169",
+        "data": {
+            "money": 1e+37,
+            "STK": "224962617",
+            "debt": 0,
+            "password": "iZSqApXa"
+        }
+    },
+    {
+        "name": "Dương Duy Khoa",
+        "senderID": "100092316667891",
+        "data": {
+            "money": 1e+34,
+            "STK": "628977478",
+            "debt": 0,
+            "password": "DtXmDK3u"
+        }
+    },
+    {
+        "name": "Ng Minni",
+        "senderID": "100078337262090",
+        "data": {
+            "money": 4.764356605483197e+26,
+            "STK": "603529556",
+            "debt": 0,
+            "password": "Fhtkk7tz"
+        }
+    },
+    {
+        "name": "Đào Thuỳ Linh",
+        "senderID": "100061309902258",
+        "data": {
+            "money": 90000000000000000000,
+            "STK": "135715015",
+            "debt": 0,
+            "password": "zAxQbNbg"
+        }
+    },
+    {
+        "name": "Bún Ốc",
+        "senderID": "100080512920550",
+        "data": {
+            "money": 38838383939392930000,
+            "STK": "458207023",
+            "debt": 0,
+            "password": "d7QwMzsL"
+        }
+    },
+    {
+        "name": "Xuân Nguyên",
+        "senderID": "100049821193522",
+        "data": {
+            "money": 1000000000000000500,
+            "STK": "139330177",
+            "debt": 0,
+            "password": "msYKKtKh"
+        }
+    },
+    {
+        "name": "Trần Hậu",
+        "senderID": "100092322024321",
+        "data": {
+            "money": 345719307836008600,
+            "STK": "813431968",
+            "debt": 0,
+            "password": "KOePopSa"
+        }
+    },
+    {
+        "name": "Nam Tập PvP",
+        "senderID": "100079506099911",
+        "data": {
+            "money": 100000000000000500,
+            "STK": "719948864",
+            "debt": 0,
+            "password": "7vdNAgy6"
+        }
+    },
+    {
+        "name": "Nguyễn Xuân Mai",
+        "senderID": "100026899368345",
+        "data": {
+            "money": 8000000000000500,
+            "STK": "588185322",
+            "debt": 0,
+            "password": "QdjXe2BM"
+        }
+    },
+    {
+        "name": "Nguyễn Hải Đăng ꪜ",
+        "senderID": "100033478361032",
+        "data": {
+            "money": 7362874627377966,
+            "STK": "705751495",
+            "debt": 0,
+            "password": "26020712"
+        }
+    },
+    {
+        "name": "Trần Đại Phúc",
+        "senderID": "100086145925824",
+        "data": {
+            "money": 1000100000000500,
+            "STK": "674666185",
+            "debt": 0,
+            "password": "jZtDn4Qw"
+        }
+    },
+    {
+        "name": "Trần Gia Hânn",
+        "senderID": "100043728549716",
+        "data": {
+            "money": 800000000000500,
+            "STK": "294022820",
+            "debt": 0,
+            "password": "y7gVmlTd"
+        }
+    },
+    {
+        "name": "Vy Nguyễn",
+        "senderID": "100091613867895",
+        "data": {
+            "money": 208692058717806,
+            "STK": "679861289",
+            "debt": 0,
+            "password": "vycute123"
+        }
+    },
+    {
+        "name": "Su Aries",
+        "senderID": "100006483533168",
+        "data": {
+            "money": 8388485856385,
+            "STK": "333808616",
+            "debt": 0,
+            "password": "W75QCQq0"
+        }
+    },
+    {
+        "name": "Hồng Phúc",
+        "senderID": "100093311857597",
+        "data": {
+            "money": 909090020500,
+            "STK": "23620310",
+            "debt": 0,
+            "password": "K8hor89P"
+        }
+    },
+    {
+        "name": "Đào Lê Phương Thuỳ",
+        "senderID": "100078243196302",
+        "data": {
+            "money": 300000000500,
+            "STK": "728875557",
+            "debt": 0,
+            "password": "QCiSSoof"
+        }
+    },
+    {
+        "name": "Sự Nguyễn",
+        "senderID": "100026487013824",
+        "data": {
+            "money": 15000000500,
+            "STK": "268258925",
+            "debt": 0,
+            "password": "OF7GcSeQ"
+        }
+    },
+    {
+        "name": "Trọng ッ",
+        "senderID": "100080354828534",
+        "data": {
+            "money": 10000000499,
+            "STK": "782466573",
+            "debt": 0,
+            "password": "1234567890987654321"
+        }
+    },
+    {
+        "name": "Nhật Quang",
+        "senderID": "100074259092207",
+        "data": {
+            "money": 2000000500,
+            "STK": "512808236",
+            "debt": 0,
+            "password": "4rnXLm7p"
+        }
+    },
+    {
+        "name": "Ch Khanh",
+        "senderID": "100091279610988",
+        "data": {
+            "money": 1000000500,
+            "STK": "221787559",
+            "debt": 0,
+            "password": "hOSRqPWn"
+        }
+    },
+    {
+        "name": "Gia Bách Ma Bư",
+        "senderID": "100041336808934",
+        "data": {
+            "money": 1000000500,
+            "STK": "532370053",
+            "debt": 0,
+            "password": "E9HKbYXf"
+        }
+    },
+    {
+        "name": "Hoàng Quốc Việt",
+        "senderID": "100076325665796",
+        "data": {
+            "money": 400000500,
+            "STK": "820851340",
+            "debt": 0,
+            "password": "NMPjrZ8Q"
+        }
+    },
+    {
+        "senderID": "100075029214300",
+        "data": {
+            "money": 400000500,
+            "STK": "794739568",
+            "debt": 0,
+            "password": "khanhios"
+        }
+    },
+    {
+        "name": "Hà Nguyễn",
+        "senderID": "100089629203140",
+        "data": {
+            "money": 100000500,
+            "STK": "899163994",
+            "debt": 0,
+            "password": "kYx53CbV"
+        }
+    },
+    {
+        "name": "Lý Xuân Hợi",
+        "senderID": "100088422144460",
+        "data": {
+            "money": 89535500,
+            "STK": "220655762",
+            "debt": 0,
+            "password": "kdfM0nps"
+        }
+    },
+    {
+        "name": "Mai Anh",
+        "senderID": "100057664569428",
+        "data": {
+            "money": 54980444,
+            "STK": "294136088",
+            "debt": 0,
+            "password": "zOt0gSMa"
+        }
+    },
+    {
+        "name": "Mười Hai Con Cheems",
+        "senderID": "100088005426600",
+        "data": {
+            "money": 10000500,
+            "STK": "371346904",
+            "debt": 0,
+            "password": "h4mg87ug"
+        }
+    },
+    {
+        "name": "Trần Hải Yến",
+        "senderID": "100034430062756",
+        "data": {
+            "money": 9800500,
+            "STK": "835754655",
+            "debt": 0,
+            "password": "OjCJXIoH"
+        }
+    },
+    {
+        "name": "Cậu Bé Hút Chích",
+        "senderID": "100083547530346",
+        "data": {
+            "money": 1000500,
+            "STK": "105330949",
+            "debt": 0,
+            "password": "RIVoi5SV"
+        }
+    },
+    {
+        "name": "Hiếu Đỗ",
+        "senderID": "100081054218274",
+        "data": {
+            "money": 965432,
+            "STK": "532264910",
+            "debt": 0,
+            "password": "1421"
+        }
+    },
+    {
+        "name": "Anh Hoangnhat",
+        "senderID": "100079977061735",
+        "data": {
+            "money": 400500,
+            "STK": "814092645",
+            "debt": 0,
+            "password": "vnL9rxzC"
+        }
+    },
+    {
+        "name": "Nguyễn Thịn",
+        "senderID": "100091927220690",
+        "data": {
+            "money": 153206,
+            "STK": "441121683",
+            "debt": 0,
+            "password": "kyDHl25m"
+        }
+    },
+    {
+        "name": "Võ Trí",
+        "senderID": "100076433988231",
+        "data": {
+            "money": 100500,
+            "STK": "651944845",
+            "debt": 0,
+            "password": "9m7mnrN2"
+        }
+    },
+    {
+        "name": "Hoàng Phúc Mai",
+        "senderID": "100057800665222",
+        "data": {
+            "money": 20500,
+            "STK": "619007424",
+            "debt": 0,
+            "password": "zKj0JDYR"
+        }
+    },
+    {
+        "name": "NT Linh Nhi",
+        "senderID": "100074864671725",
+        "data": {
+            "money": 2000,
+            "STK": "178772432",
+            "debt": 0,
+            "password": "8de6YBqy"
+        }
+    },
+    {
+        "name": "Định Luvv-aya",
+        "senderID": "100077641127180",
+        "data": {
+            "money": 600,
+            "STK": "755786997",
+            "debt": 0,
+            "password": "6nhaFT6D"
+        }
+    },
+    {
+        "name": "Nguyễn Hoàng",
+        "senderID": "100034380954200",
+        "data": {
+            "money": 502,
+            "STK": "618643538",
+            "debt": 0,
+            "password": "8w4wijhH"
+        }
+    },
+    {
+        "name": "Duy Duy",
+        "senderID": "100045446814075",
+        "data": {
+            "money": 501,
+            "STK": "617327139",
+            "debt": 0,
+            "password": "O6hqcezj"
+        }
+    },
+    {
+        "name": "ʚNguyễn Lynhhɞ",
+        "senderID": "100059203365735",
+        "data": {
+            "money": 501,
+            "STK": "675014106",
+            "debt": 0,
+            "password": "DLxnHV4J"
+        }
+    },
+    {
+        "name": "Tien Tien",
+        "senderID": "100051646775487",
+        "data": {
+            "money": 500,
+            "STK": "442919137",
+            "debt": 0,
+            "password": "aI5VuhQb"
+        }
+    },
+    {
+        "name": "Rin Nguyễn",
+        "senderID": "100087900283994",
+        "data": {
+            "money": 500,
+            "STK": "194361509",
+            "debt": 0,
+            "password": "MJO2WRvq"
+        }
+    },
+    {
+        "name": "Hồ Quốc Tuấn",
+        "senderID": "100011855520258",
+        "data": {
+            "money": 500,
+            "STK": "780892777",
+            "debt": 0,
+            "password": "rIcUSJj1"
+        }
+    },
+    {
+        "name": "Cường Phạm Đình",
+        "senderID": "100033076903258",
+        "data": {
+            "money": 500,
+            "STK": "142412652",
+            "debt": 0,
+            "password": "iTxjdzR0"
+        }
+    },
+    {
+        "name": "Ng Thanh Nam",
+        "senderID": "100092368964331",
+        "data": {
+            "money": 500,
+            "STK": "70477759",
+            "debt": 0,
+            "password": "e53bY4Ol"
+        }
+    },
+    {
+        "name": "Quang Duy Hà",
+        "senderID": "100076536692658",
+        "data": {
+            "money": 500,
+            "STK": "167801291",
+            "debt": 0,
+            "password": "xCU2jjkY"
+        }
+    },
+    {
+        "data": {
+            "money": 500,
+            "STK": "569809504",
+            "debt": 0,
+            "password": "ifDTRv4M"
+        }
+    },
+    {
+        "name": "${name}",
+        "senderID": "${id}",
+        "data": {
+            "money": 500,
+            "STK": "249597867",
+            "debt": 0,
+            "password": "ntZeZM1Q"
+        }
+    },
+    {
+        "name": "Anh Duc",
+        "senderID": "5678",
+        "data": {
+            "money": 500,
+            "STK": "404305073",
+            "debt": 0,
+            "password": "fXtnmIrx"
+        }
+    },
+    {
+        "name": "$hehe",
+        "senderID": "$10000",
+        "data": {
+            "money": 500,
+            "STK": "94735010",
+            "debt": 0,
+            "password": "lp10x00o"
+        }
+    },
+    {
+        "name": "$ấbkjsa",
+        "senderID": "$1000",
+        "data": {
+            "money": 500,
+            "STK": "775011414",
+            "debt": 0,
+            "password": "Z2RWV70O"
+        }
+    },
+    {
+        "name": "$king.",
+        "senderID": "$895604726454968320",
+        "data": {
+            "money": 500,
+            "STK": "220243143",
+            "debt": 0,
+            "password": "o3vYDJMi"
+        }
+    },
+    {
+        "name": "$user1",
+        "senderID": "$2007",
+        "data": {
+            "money": 500,
+            "STK": "183712514",
+            "debt": 0,
+            "password": "KxasLFsO"
+        }
+    },
+    {
+        "name": "$hehe",
+        "senderID": "$2020",
+        "data": {
+            "money": 500,
+            "STK": "414239985",
+            "debt": 0,
+            "password": "ke7mUgr6"
+        }
+    },
+    {
+        "name": "Tôm Nướng",
+        "senderID": "100072742621181",
+        "data": {
+            "money": 500,
+            "STK": "869245705",
+            "debt": 0,
+            "password": "so3sFIjp"
+        }
+    },
+    {
+        "name": "Nguyễn Hoàng",
+        "senderID": "100052356751907",
+        "data": {
+            "money": 500,
+            "STK": "586417097",
+            "debt": 0,
+            "password": "VDLVy48i"
+        }
+    },
+    {
+        "name": "L.V. Bằng",
+        "senderID": "100028356152567",
+        "data": {
+            "money": 500,
+            "STK": "382508161",
+            "debt": 0,
+            "password": "rJdgKlUA"
+        }
+    },
+    {
+        "name": "Hiếu Đỗ",
+        "senderID": "100081054218274}",
+        "data": {
+            "money": 500,
+            "STK": "203053000",
+            "debt": 0,
+            "password": "XMSiRGfO"
+        }
+    },
+    {
+        "name": "Hoàng Sơn",
+        "senderID": "100065418826680}",
+        "data": {
+            "money": 500,
+            "STK": "728941593",
+            "debt": 0,
+            "password": "E2j5123I"
+        }
+    },
+    {
+        "name": "Mai Anh",
+        "senderID": "100057664569428}",
+        "data": {
+            "money": 500,
+            "STK": "678397109",
+            "debt": 0,
+            "password": "DGUK6h17"
+        }
+    },
+    {
+        "name": "${encodeURI((await Users.getData(senderID)).name)}",
+        "senderID": "${senderID}}",
+        "data": {
+            "money": 500,
+            "STK": "6317310",
+            "debt": 0,
+            "password": "ofCEW01T"
+        }
+    },
+    {
+        "name": "Hồ Bảo",
+        "senderID": "100013424716880",
+        "data": {
+            "money": 500,
+            "STK": "790169043",
+            "debt": 0,
+            "password": "4u99JULE"
+        }
+    },
+    {
+        "name": "Linh Seamus",
+        "senderID": "100087461194484",
+        "data": {
+            "money": 500,
+            "STK": "403570856",
+            "debt": 0,
+            "password": "BJ34KrQy"
+        }
+    },
+    {
+        "name": "Nguyễn Chính",
+        "senderID": "100081338666839",
+        "data": {
+            "money": 500,
+            "STK": "209313400",
+            "debt": 0,
+            "password": "if2x76M8"
+        }
+    },
+    {
+        "name": "Tòng Việt Hòa",
+        "senderID": "100050419214435",
+        "data": {
+            "money": 500,
+            "STK": "351636348",
+            "debt": 0,
+            "password": "wIemcmjN"
+        }
+    },
+    {
+        "name": "Nghĩa Bùi Mình",
+        "senderID": "100093557912693",
+        "data": {
+            "money": 500,
+            "STK": "30455967",
+            "debt": 0,
+            "password": "41DfIhdK"
+        }
+    },
+    {
+        "name": "Thái Khánh",
+        "senderID": "100043935679138",
+        "data": {
+            "money": 500,
+            "STK": "888757180",
+            "debt": 0,
+            "password": "YvCzMmz7"
+        }
+    },
+    {
+        "name": "Nguyên Có Waifu",
+        "senderID": "100054660160407",
+        "data": {
+            "money": 500,
+            "STK": "148412999",
+            "debt": 0,
+            "password": "Mmq4lVsb"
+        }
+    },
+    {
+        "name": "Hồ Xuân Tài",
+        "senderID": "100069092269236",
+        "data": {
+            "money": 500,
+            "STK": "281863883",
+            "debt": 0,
+            "password": "OBIpBaxs"
+        }
+    },
+    {
+        "name": "Huynh Lamm",
+        "senderID": "100085230609876",
+        "data": {
+            "money": 500,
+            "STK": "617978308",
+            "debt": 0,
+            "password": "myHK0Fwl"
+        }
+    },
+    {
+        "name": "Nguyễn Nam Sơn",
+        "senderID": "100067886251935",
+        "data": {
+            "money": 500,
+            "STK": "157807307",
+            "debt": 0,
+            "password": "LYKh9weB"
+        }
+    },
+    {
+        "name": "Đỗ Văn Hiếu",
+        "senderID": "100083231723177",
+        "data": {
+            "money": 500,
+            "STK": "550019108",
+            "debt": 0,
+            "password": "8eWkoEUZ"
+        }
+    },
+    {
+        "name": "Seo Yoen",
+        "senderID": "100082685370376",
+        "data": {
+            "money": 500,
+            "STK": "94639832",
+            "debt": 0,
+            "password": "CHSM5uO1"
+        }
+    },
+    {
+        "name": "Dương Thiện Bình",
+        "senderID": "100069297605380",
+        "data": {
+            "money": 500,
+            "STK": "561555814",
+            "debt": 0,
+            "password": "M4jHkTCt"
+        }
+    },
+    {
+        "name": "Dannil Maicil",
+        "senderID": "100077605984801",
+        "data": {
+            "money": 500,
+            "STK": "208767036",
+            "debt": 0,
+            "password": "Py4w6kDS"
+        }
+    },
+    {
+        "name": "Minh Nghĩa",
+        "senderID": "100082748529784",
+        "data": {
+            "money": null,
+            "STK": "863771329",
+            "debt": 0,
+            "password": "RUzhu99B"
+        }
+    },
+    {
+        "name": "Huyy Bii",
+        "senderID": "100065106451212",
+        "data": {
+            "money": null,
+            "STK": "379496358",
+            "debt": 0,
+            "password": "JHB2ASYz"
+        }
+    },
+    {
+        "name": "Gia Khánh",
+        "senderID": "100092411692838",
+        "data": {
+            "money": null,
+            "STK": "236417252",
+            "debt": 0,
+            "password": "LUJLqvmg"
+        }
+    },
+    {
+        "name": "Jeff Hoàng",
+        "senderID": "100076158337275",
+        "data": {
+            "money": null,
+            "STK": "834167319",
+            "debt": 0,
+            "password": "nIQ07anw"
+        }
+    },
+    {
+        "name": "Dũng Lê",
+        "senderID": "100077639970075",
+        "data": {
+            "money": null,
+            "STK": "716272721",
+            "debt": 0,
+            "password": "soXGDcXU"
+        }
+    },
+    {
+        "name": "Võ Huỳnh Nhật Nam",
+        "senderID": "100072017892537",
+        "data": {
+            "money": null,
+            "STK": "255233604",
+            "debt": 0,
+            "password": "angOLMUg"
+        }
+    },
+    {
+        "name": "Nguyễn Tiến Đạt",
+        "senderID": "100089705289038",
+        "data": {
+            "money": null,
+            "STK": "282232164",
+            "debt": 0,
+            "password": "47sulTSn"
+        }
+    },
+    {
+        "name": "Ng Mai Loi",
+        "senderID": "100087915932643",
+        "data": {
+            "money": null,
+            "STK": "395077350",
+            "debt": 0,
+            "password": "awJzdBJi"
+        }
+    },
+    {
+        "name": "Gosky Danny",
+        "senderID": "100065693585020",
+        "data": {
+            "money": null,
+            "STK": "312558509",
+            "debt": 0,
+            "password": "PIU5yshw"
+        }
+    },
+    {
+        "name": "Minh Lỏ",
+        "senderID": "100081025533355",
+        "data": {
+            "money": null,
+            "STK": "125161161",
+            "debt": 0,
+            "password": "aNFGZrVP"
+        }
+    },
+    {
+        "name": "Nguyễn Long",
+        "senderID": "100073386331889",
+        "data": {
+            "money": null,
+            "STK": "197807094",
+            "debt": 0,
+            "password": "km21exD9"
+        }
+    },
+    {
+        "name": "Soden Danny",
+        "senderID": "100021514662505",
+        "data": {
+            "money": null,
+            "STK": "726480819",
+            "debt": 0,
+            "password": "a4bst1L3"
+        }
+    },
+    {
+        "name": "Lu Truong",
+        "senderID": "100058994528379",
+        "data": {
+            "money": null,
+            "STK": "475227983",
+            "debt": 0,
+            "password": "1"
+        }
+    },
+    {
+        "name": "Văn Trường",
+        "senderID": "100093023351883",
+        "data": {
+            "money": null,
+            "STK": "635192969",
+            "debt": 0,
+            "password": "12345678"
+        }
+    },
+    {
+        "name": "Đặng Bách",
+        "senderID": "100037516007642",
+        "data": {
+            "money": 500,
+            "STK": "321605768",
+            "debt": 0,
+            "password": "H4chDDCm"
+        }
+    },
+    {
+        "name": "Mai Cờ Ráp",
+        "senderID": "100070439363798",
+        "data": {
+            "money": 500,
+            "STK": "421951505",
+            "debt": 0,
+            "password": "nIjoSSep"
+        }
+    },
+    {
+        "name": "Trần Tùng",
+        "senderID": "100062408262124",
+        "data": {
+            "money": 1,
+            "STK": "728301148",
+            "debt": 0,
+            "password": "Xuantung"
+        }
+    },
+    {
+        "name": "Nguyễn Đức Long",
+        "senderID": "100085227035991",
+        "data": {
+            "money": null,
+            "STK": "670993485",
+            "debt": 0,
+            "password": "SBCkIgcx"
+        }
+    },
+    {
+        "name": "Nguyễn Đức Bình",
+        "senderID": "100083174347639",
+        "data": {
+            "money": null,
+            "STK": "402422448",
+            "debt": 0,
+            "password": "nak"
+        }
+    },
+    {
+        "name": "Minh Quang",
+        "senderID": "100089000343567",
+        "data": {
+            "money": null,
+            "STK": "618227699",
+            "debt": 0,
+            "password": "HZ6HPuLW"
+        }
+    },
+    {
+        "name": "Hoàng Bá Đạt",
+        "senderID": "100086224592850",
+        "data": {
+            "money": null,
+            "STK": "128494035",
+            "debt": 0,
+            "password": "Katakuri"
+        }
+    },
+    {
+        "name": "Phan Hoàng",
+        "senderID": "100091799598830",
+        "data": {
+            "money": 0,
+            "STK": "530705129",
+            "debt": 0,
+            "password": "mWMVEOA3"
+        }
+    },
+    {
+        "name": "Dơ Vì",
+        "senderID": "100034946529196",
+        "data": {
+            "money": null,
+            "STK": "208688251",
+            "debt": 0,
+            "password": "7vLBeq8r"
+        }
+    },
+    {
+        "name": "Lộc Sama",
+        "senderID": "100061624882577",
+        "data": {
+            "money": null,
+            "STK": "423629818",
+            "debt": 0,
+            "password": "kC8a21mh"
+        }
+    },
+    {
+        "name": "𝙃𝙤𝙖𝙣𝙜 𝙋𝙝𝙞 𝙃𝙪𝙣𝙜",
+        "senderID": "500508708",
+        "data": {
+            "money": 0,
+            "STK": "173119949",
+            "debt": 0,
+            "password": "11042006"
+        }
+    },
+    {
+        "name": "Tohru Kobayashi",
+        "senderID": "100068956028357",
+        "data": {
+            "money": null,
+            "STK": "596909159",
+            "debt": 0,
+            "password": "tSpo0uGe"
+        }
+    },
+    {
+        "name": "Ba Chấm",
+        "senderID": "100046383709263",
+        "data": {
+            "money": null,
+            "STK": "362811618",
+            "debt": 0,
+            "password": "d1TGC97z"
+        }
+    },
+    {
+        "name": "Trương Minh Nhật",
+        "senderID": "100043821935911",
+        "data": {
+            "money": null,
+            "STK": "494105330",
+            "debt": 0,
+            "password": "9zSN99qN"
+        }
+    },
+    {
+        "name": "Nam Tran",
+        "senderID": "100054559282734",
+        "data": {
+            "money": null,
+            "STK": "201514326",
+            "debt": 0,
+            "password": "bYw7EccP"
+        }
+    },
+    {
+        "name": "Nguyen Thao",
+        "senderID": "100081828547059",
+        "data": {
+            "money": null,
+            "STK": "694524388",
+            "debt": 0,
+            "password": "tQLtKkh1"
+        }
+    },
+    {
+        "name": "No's Name'z",
+        "senderID": "100054954205711",
+        "data": {
+            "money": null,
+            "STK": "158337951",
+            "debt": 0,
+            "password": "4KoEBCw6"
+        }
+    },
+    {
+        "name": "Kẻ Bị Lãng Quên",
+        "senderID": "100065589947175",
+        "data": {
+            "money": null,
+            "STK": "268231707",
+            "debt": 0,
+            "password": "Y7tYXHmQ"
+        }
+    },
+    {
+        "name": "Cậu Teemo",
+        "senderID": "100051811351646",
+        "data": {
+            "money": null,
+            "STK": "348167823",
+            "debt": 0,
+            "password": "jWUZACSj"
+        }
+    },
+    {
+        "name": "${encodeURI",
+        "senderID": "${senderID}",
+        "data": {
+            "money": null,
+            "STK": "453357616",
+            "debt": 0,
+            "password": "Hl5wfuLc"
+        }
+    },
+    {
+        "name": "${encodeURI((await Users.getData(senderID)).name",
+        "senderID": "100065418826680",
+        "data": {
+            "money": null,
+            "STK": "854685274",
+            "debt": 0,
+            "password": "OgpHSUmw"
+        }
+    },
+    {
+        "name": "Phan Nguyen Minh Khang",
+        "senderID": "100062888224472",
+        "data": {
+            "money": null,
+            "STK": "768823747",
+            "debt": 0,
+            "password": "3W0yPuaw"
+        }
+    },
+    {
+        "name": "Hà Thiên Phúc",
+        "senderID": "100035095832557",
+        "data": {
+            "money": 0,
+            "STK": "583644790",
+            "debt": 0,
+            "password": "G69YEu3k"
+        }
+    },
+    {
+        "name": "Lê Trung",
+        "senderID": "100041743893521",
+        "data": {
+            "money": null,
+            "STK": "215344988",
+            "debt": 0,
+            "password": "Pf8GUQzi"
+        }
+    },
+    {
+        "name": "Hoang Trung Anh",
+        "senderID": "100033730284361",
+        "data": {
+            "money": null,
+            "STK": "472430699",
+            "debt": 0,
+            "password": "6uVxYZyV"
+        }
+    },
+    {
+        "name": "Huynh Kịc",
+        "senderID": "100089621258024",
+        "data": {
+            "money": 0,
+            "STK": "571346899",
+            "debt": 0,
+            "password": "W4pdHxlO"
+        }
+    },
+    {
+        "name": "Loi Nguyen",
+        "senderID": "100087895279333",
+        "data": {
+            "money": null,
+            "STK": "884843089",
+            "debt": 0,
+            "password": "DG9H5xwo"
+        }
+    },
+    {
+        "name": "Tuan Minh",
+        "senderID": "100093180624249",
+        "data": {
+            "money": null,
+            "STK": "91242730",
+            "debt": 0,
+            "password": "tuandz"
+        }
+    },
+    {
+        "name": "Tấn Hưng",
+        "senderID": "100074453137945",
+        "data": {
+            "money": null,
+            "STK": "43707435",
+            "debt": 0,
+            "password": "mo61zJpJ"
+        }
+    },
+    {
+        "name": "Triet Hoang Minh",
+        "senderID": "100073802440040",
+        "data": {
+            "money": null,
+            "STK": "544361449",
+            "debt": 0,
+            "password": "2xpwrGwi"
+        }
+    },
+    {
+        "name": "Ng Huy",
+        "senderID": "100092744481406",
+        "data": {
+            "money": null,
+            "STK": "154482975",
+            "debt": 0,
+            "password": "RKSnJjGr"
+        }
+    },
+    {
+        "name": "Phạm Minh",
+        "senderID": "100092556910244",
+        "data": {
+            "money": 4.93937363829202e+110,
+            "STK": "394556680",
+            "debt": 0,
+            "password": "3RbgIiat"
+        }
+    },
+    {
+        "name": "Trịnh Đức",
+        "senderID": "100092568475128",
+        "data": {
+            "money": 500,
+            "STK": "69488190",
+            "debt": 0,
+            "password": "fl8waiVx"
+        }
+    },
+    {
+        "name": "Ruǎn Yīng",
+        "senderID": "100044078230511",
+        "data": {
+            "money": 600500,
+            "STK": "606268242",
+            "debt": 0,
+            "password": "K1MYXoIy"
+        }
+    },
+    {
+        "name": "Nguyễn Minh Triết",
+        "senderID": "100070905805622",
+        "data": {
+            "money": 500,
+            "STK": "832913775",
+            "debt": 0,
+            "password": "ZFIP9p5b"
+        }
+    },
+    {
+        "name": "Hoàngg Khangg",
+        "senderID": "100081590400491",
+        "data": {
+            "money": 500,
+            "STK": "672885222",
+            "debt": 0,
+            "password": "w43y16Ih"
+        }
+    },
+    {
+        "name": "Hehe Anh",
+        "senderID": "100070317732675",
+        "data": {
+            "money": 500,
+            "STK": "264158949",
+            "debt": 0,
+            "password": "4e2AOJez"
+        }
+    },
+    {
+        "name": "Anh Phan",
+        "senderID": "100069694133112",
+        "data": {
+            "money": 500,
+            "STK": "56111743",
+            "debt": 0,
+            "password": "AiAoFeDO"
+        }
+    }
+]
