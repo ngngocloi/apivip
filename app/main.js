@@ -40,7 +40,7 @@ app.use((error, req, res, next) => {
     });
 });
 
-app.set('port', (process.env.PORT || 8888));
+app.set('port', (process.env.PORT || 10000));
 app.get('/', function (request, response) {
     response.sendFile(global.home);
 }).listen(app.get('port'));
